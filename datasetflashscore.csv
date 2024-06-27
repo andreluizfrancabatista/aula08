@@ -1,65 +1,170 @@
 HOME;AWAY;FTHG;FTAG
-Slovenia;Serbia;1;1
-Denmark;England;1;1
-Spain;Italy;1;0
-Argentina;Canada;2;0
-Vitoria;Atletico-MG;4;2
-Flamengo RJ;Bahia;2;1
-Palmeiras;Bragantino;2;1
-Vila Nova FC;Mirassol;1;0
-Ceara;Sport Recife;0;0
-Nublense;Huachipato;3;0
-Colegio Quillon;Colo Colo;0;6
-Marcos Trincado;U. Espanola;1;5
-Brujas Salamanca;Coquimbo;0;1
-Glorias Navales;U. Catolica;0;2
-Moca;Cibao;1;3
-Shashemene Kenema;Fasil Kenema;1;2
-Hawassa;Wolkite Ketema;2;2
-SJK Akatemia;KTP;0;3
-KuPS Akatemia;VIFK;2;1
-Renaissance;Ashanti GB;1;1
-Afturelding;Vestmannaeyjar;0;3
-IR Reykjavik;Fjolnir;3;1
-Keflavik;Throttur;1;1
-Vikingur Reykjavik W;Breidablik W;2;1
-Mes Rafsanjan;Sepahan;0;2
-Tukums 2000;FK Liepaja;2;1
-Valmiera;Metta;3;0
-Al Ansar;Safa;4;1
-Nejmeh SC;Al Ahed;1;0
-Racing;Bourj FC;1;2
-Khaan Khuns-Erchim;Brera Ilch;2;5
-Abia Warriors;Kano Pillars;1;0
-Kebbi;El Kanemi;0;1
-Bhantal;Bo Rangers;0;1
-Heegan;Kigs;1;3
-Boeun Sangmu W;Seoul W;1;0
-Changnyeong W;Incheon Hyundai Steel W;0;2
-Hwacheon W;Suwon FC W;1;1
-Sejong Sportstoto W;Gyeongju W;1;3
-Huddinge;Nacka FC;3;2
-Stegeborg;Nykopings;2;4
-Rosengard W;Orebro W;4;0
-Trelleborg W;Hacken W;0;2
-CS Sfaxien;Esperance Tunis;0;0
-Nasaf Qarshi;Neftchi Fargona;1;0
-Navbahor Namangan;Qizilqum;0;0
-Rayo Zuliano;Heroes de Falcon;2;1
-Frontera;Dep. Tachira;0;1
-Portuguesa;Academia Rey;0;1
-Dynamo Puerto;Monagas;2;3
-Inter de Barinas;Estudiantes Merida;0;0
-La Guaira;Maritimo;3;3
-Puerto Cabello;Carabobo;0;1
-Fundacion AIFI;Angostura;0;1
-Binh Dinh;Hanoi FC;4;2
-Binh Duong;Gia Lai;0;1
-Nam Dinh;Hong Linh Ha Tinh;1;0
-Cong An Ha Noi;Hai Phong;5;1
-FC Rapid Bucuresti (Rou);Gloria Buzau (Rou);4;1
-Sepsi Sf. Gheorghe (Rou);Unirea Slobozia (Rou);1;1
-Lillestrom (Nor);Goteborg (Swe);2;0
-Torpedo Moscow (Rus);Shinnik Yaroslavl (Rus);1;0
-Struga (Mkd);Tikves (Mkd);3;4
-Mexico U17 W;Colombia U17 W;1;0
+Slovakia;Romania;1;1
+Ukraine;Belgium;0;0
+Czech Republic;Turkey;1;2
+Georgia;Portugal;2;0
+Ecuador;Jamaica;3;1
+Venezuela;Mexico;1;0
+Eswatini;Botswana;0;0
+South Africa;Mozambique;1;1
+Bahrain U19;United Arab Emirates U19;1;3
+Iraq U19;Jordan U19;0;0
+Lebanon U19;Albania U19;0;2
+Syria U19;Palestine U19;4;2
+Broadmeadow;Weston Workers;5;0
+Thornton Redbacks;Toronto Awaba Stags;0;2
+Logan Lightning;Broadbeach Utd.;6;0
+New Zealand;Tahiti;5;0
+Botafogo RJ;Bragantino;2;1
+Cruzeiro;Athletico-PR;2;0
+Atletico GO;Gremio;1;1
+Corinthians;Cuiaba;1;1
+Juventude;Flamengo RJ;2;1
+Bahia;Vasco;2;1
+Fortaleza;Palmeiras;3;0
+Internacional;Atletico-MG;1;2
+Mirassol B;Votuporanguense;1;2
+D. Concepcion;Dep. Linares;2;3
+Rangers;Nublense;1;1
+Shanghai Shenhua;Meizhou Hakka;3;0
+Changchun Yatai;Shandong Taishan;2;2
+Qingdao Hainiu;Chengdu Rongcheng;1;5
+Beijing Guoan;Cangzhou;4;0
+Tamper;JK Poseidon;4;1
+Ocean Kerch;Alushta-Crimea;4;0
+Ekenas;HJK;1;0
+Hafia;Wakriya;3;1
+Kaloum Star;Ashanti GB;2;1
+Kamsar;Flamme Olympique;1;1
+Renaissance;Milo FC;0;1
+Grindavik;Vestmannaeyjar;3;1
+Keflavik;Njardvik;1;1
+Afturelding;Fjolnir;0;1
+Dalvik/Reynir;Thor Akureyri;1;3
+Grotta;IR Reykjavik;1;3
+Leiknir;Throttur;3;1
+Hafnarfjordur W;Tindastoll W;4;1
+Vikingur Reykjavik W;Stjarnan W;3;2
+Al-Qassim;Al Wasat;2;2
+Al Zawraa;Al-Hudod;2;0
+Baghdad;Al Quwa Al Jawiya;0;2
+Erbil;Al Najaf;1;1
+Al Kahraba;Al Talaba;0;3
+Avispa Fukuoka;Yokohama F. Marinos;2;1
+Cerezo Osaka;Sagan Tosu;1;0
+FC Tokyo;Hokkaido Consadole Sapporo;1;0
+Iwata;Verdy;3;0
+Kashima Antlers;Gamba Osaka;0;0
+Kawasaki Frontale;Shonan Bellmare;1;1
+Kyoto;Kashiwa Reysol;2;2
+Nagoya Grampus;Urawa Reds;0;1
+Sanfrecce Hiroshima;Albirex Niigata;1;1
+Vissel Kobe;Machida;0;0
+V-Varen Nagasaki;Iwaki;3;1
+Jelgava;Tukums 2000;0;0
+Riga FC;Auda;1;0
+RFS;Valmiera;4;1
+Hegelmann;Siauliai FA;0;0
+Suduva;FK Panevezys;1;3
+Banga;Zalgiris;0;2
+Dainava Alytus;Dziugas Telsiai;3;1
+Kauno Zalgiris;Transinvest;2;0
+Ferroviario Maputo;UD Songo;0;1
+Aalesund W;LSK Kvinner W;2;1
+Arna-Bjornar W;Viking W;2;4
+Asane W;Brann W;0;4
+Molde W;Rosenborg W;0;4
+Roa W;Tromso W;2;1
+Stabaek W;Honefoss W;2;1
+Lyn W;Bodo/Glimt W;2;1
+Lamboi;Kallon;0;1
+Luawa;East End Lions;1;2
+SLIFA;Bai Bureh Warriors;2;2
+Jeju Utd;Incheon;1;0
+Jeonbuk;Pohang;1;1
+Seoul;Gangwon;2;0
+Ulsan HD;Daegu;1;0
+Cheonan City;Bucheon FC 1995;1;2
+Gimpo FC;Cheongju;1;1
+Seoul E-Land;Ansan Greeners;0;3
+Skelleftea;Pitea;1;2
+IFK Ostersund;Hudiksvall;1;0
+Orebro W;Hacken W;0;1
+Trelleborg W;Rosengard W;1;9
+Panjsher;Istiqlol Dushanbe;0;3
+Binah;Gbikinti Bassar;1;0
+Dynamic Togolais;Kara;0;2
+Entente II;Gbohloe-Su;0;0
+Espoir;ASC Kara;0;0
+Semassi;Kakadl;0;0
+Olympique Beja;Stade Tunisien;1;4
+Bizertin;Club Africain;2;1
+Detroit;Birmingham;1;2
+Rhode Island;El Paso;3;0
+Andijan;Navbahor Namangan;3;0
+Metallurg Bekabad;Nasaf Qarshi;0;0
+Aral;Xorazm Urganch;0;0
+Mashal Muborak;Dostlik Tashkent;2;0
+Frontera;Urena;6;1
+Finland U17;Estonia U17;3;2
+Latvia U17;Lithuania U17;2;2
+Arda (Bul);Yantra Gabrovo (Bul);2;0
+Farul Constanta (Rou);Zimbru Chisinau (Mda);5;3
+MTK Budapest (Hun);Ivancsa (Hun);-;-
+Samorin (Svk);Petrzalka (Svk);1;1
+FK Humenne (Svk);Michalovce (Svk);3;1
+FC Dabas (Hun);Budaorsi SC (Hun);3;4
+GKS Katowice (Pol);Polonia Bytom (Pol);0;2
+Stal Mielec (Pol);R. Rzeszow (Pol);2;2
+Termalica B-B. (Pol);Karvina (Cze);0;3
+Korona Kielce (Pol);Radomiak Radom (Pol);0;3
+BKV Elore (Hun);MTK Budapest (Hun);0;2
+Legia (Pol);Panathinaikos (Gre);-;-
+Univ. Craiova (Rou);Slask Wroclaw (Pol);-;-
+Pari NN (Rus);Yenisey (Rus);0;4
+Tubize (Bel);Anderlecht (Bel);1;4
+Presov (Svk);Lubovna (Svk);3;4
+Pruszkow (Pol);Leczna (Pol);1;2
+Viborg (Den);Haugesund (Nor);0;1
+FC Hermannstadt (Rou);Petrolul (Rou);0;1
+BW Linz (Aut);Slovan Bratislava (Svk);1;5
+Lokomotiv Moscow (Rus);Arsenal Tula (Rus);2;1
+Ostrava (Cze);Zilina (Svk);1;1
+Poli Iasi (Rou);Montana (Bul);1;1
+Verl (Ger);Schalke II (Ger);4;2
+Krumovgrad (Bul);CSKA Sofia (Bul);0;2
+A. Lustenau (Aut);St. Gallen II (Sui);2;1
+GKS Jastrzebie (Pol);GKS Katowice (Pol);2;2
+Plzen (Cze);Banska Bystrica (Svk);2;1
+Slask Wroclaw (Pol);CFR Cluj (Rou);1;0
+Slavia Sofia (Bul);Septemvri Sofia (Bul);4;1
+Beroe (Bul);Etar (Bul);0;0
+Lok. Gorna (Bul);Spartak Pleven (Bul);0;2
+Skodstrup SF (Den);Aarhus (Den);0;9
+Bravo (Slo);Partizan (Srb);2;1
+Donaufeld Wien (Aut);Admira (Aut);0;0
+DVTK (Hun);Eger SE (Hun);2;0
+O. Ljubljana (Slo);Gloria Buzau (Rou);2;0
+Piast Gliwice (Pol);Pogon Szczecin (Pol);1;0
+Sp. Subotica (Srb);Decic (Mne);2;0
+St. Gallen (Sui);Ludogorets (Bul);0;2
+Neudrossenfeld (Ger);Greuther Furth (Ger);1;6
+Dunav Ruse (Bul);"Dobrudzha (Bul)
+2";0;0
+Eintracht Rheine (Ger);Rodinghausen (Ger);1;5
+Etoile-Carouge (Sui);Chenois (Sui);1;2
+Hebar (Bul);Spartak Plovdiv (Bul);3;1
+Horn (Aut);Lisen (Cze);2;5
+SC Dusseldorf (Ger);Dusseldorf II (Ger);0;4
+Sonsbeck (Ger);Duisburg (Ger);1;7
+TSV Havelse (Ger);Lupo-Martini Wolfsburg (Ger);-;-
+Wolfenbuttel (Ger);Braunschweig (Ger);1;8
+Bad Westernkotten (Ger);Paderborn II (Ger);2;9
+Burscough (Eng);Chorley (Eng);-;-
+Gala Fairydean (Sco);Edinburgh City (Sco);3;3
+Celaya (Mex);Petroleros Salamanca (Mex);1;0
+Colo Colo (Chi);U. de Deportes (Per);0;0
+"Alianza Lima (Per)
+2";Bolivar (Bol);2;3
+Club Leon (Mex);Irapuato (Mex);3;0
+Kazakhstan U19 W;Kyrgyzstan U19 W;2;0
